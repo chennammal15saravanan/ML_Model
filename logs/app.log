@@ -1,0 +1,90 @@
+2025-05-21 16:13:33,652 - INFO - Loaded en_core_web_sm model successfully
+2025-05-21 16:13:35,339 - INFO - No saved model found. Training required.
+2025-05-21 16:13:48,348 - INFO - Loaded en_core_web_sm model successfully
+2025-05-21 16:13:48,348 - INFO - Loaded en_core_web_sm model successfully
+2025-05-21 16:13:48,362 - INFO - No saved model found. Training required.
+2025-05-21 16:13:48,362 - INFO - No saved model found. Training required.
+2025-05-21 16:13:48,612 - INFO - Inferred data type: supermarket
+2025-05-21 16:13:48,612 - INFO - Inferred data type: supermarket
+2025-05-21 16:13:48,613 - INFO - Data metadata: {'numeric_columns': ['Transaction ID', 'Quantity', 'Unit Price', 'Total Amount'], 'categorical_columns': ['Date', 'Customer Name', 'Category', 'Payment Method'], 'date_columns': ['Date'], 'data_type': 'supermarket'}
+2025-05-21 16:13:48,613 - INFO - Data metadata: {'numeric_columns': ['Transaction ID', 'Quantity', 'Unit Price', 'Total Amount'], 'categorical_columns': ['Date', 'Customer Name', 'Category', 'Payment Method'], 'date_columns': ['Date'], 'data_type': 'supermarket'}
+2025-05-21 16:13:48,615 - INFO - Preprocessed Simulated_Supermarket_Transactions.csv in 0.249 seconds
+2025-05-21 16:13:48,615 - INFO - Preprocessed Simulated_Supermarket_Transactions.csv in 0.249 seconds
+2025-05-21 16:13:48,617 - INFO - DataFrame shape: (5000, 9), Columns: ['Date', 'Transaction ID', 'Customer Name', 'Product', 'Category', 'Quantity', 'Unit Price', 'Total Amount', 'Payment Method']
+2025-05-21 16:13:48,617 - INFO - DataFrame shape: (5000, 9), Columns: ['Date', 'Transaction ID', 'Customer Name', 'Product', 'Category', 'Quantity', 'Unit Price', 'Total Amount', 'Payment Method']
+2025-05-21 16:13:48,652 - INFO - Data preview (first 5 rows):
+       Date  Transaction ID    Customer Name    Product             Category  Quantity  Unit Price  Total Amount Payment Method
+0  03/02/25      2079781255    Phillip Adams       Into               Bakery         5      128.11        640.55    Net Banking
+1  18/01/25      8844433550    Steven Powell    Prevent               Bakery         1       96.79         96.79    Credit Card
+2  13/02/25      8182863730  Michael Bentley      Apply                Dairy        10      223.49       2234.90     Debit Card
+3  05/03/25      8043733122       Mark Watts  Agreement            Household         7       17.88        125.16           Cash
+4  24/01/25      1536011247    Monica Fields   Maintain  Fruits & Vegetables         7      279.38       1955.66     Debit Card
+2025-05-21 16:13:48,652 - INFO - Data preview (first 5 rows):
+       Date  Transaction ID    Customer Name    Product             Category  Quantity  Unit Price  Total Amount Payment Method
+0  03/02/25      2079781255    Phillip Adams       Into               Bakery         5      128.11        640.55    Net Banking
+1  18/01/25      8844433550    Steven Powell    Prevent               Bakery         1       96.79         96.79    Credit Card
+2  13/02/25      8182863730  Michael Bentley      Apply                Dairy        10      223.49       2234.90     Debit Card
+3  05/03/25      8043733122       Mark Watts  Agreement            Household         7       17.88        125.16           Cash
+4  24/01/25      1536011247    Monica Fields   Maintain  Fruits & Vegetables         7      279.38       1955.66     Debit Card
+2025-05-21 16:13:48,814 - INFO - Stored data for user test_user, file Simulated_Supermarket_Transactions.csv in 0.160 seconds
+2025-05-21 16:13:48,814 - INFO - Stored data for user test_user, file Simulated_Supermarket_Transactions.csv in 0.160 seconds
+2025-05-21 16:14:06,989 - INFO - Loaded en_core_web_sm model successfully
+2025-05-21 16:14:06,989 - INFO - Loaded en_core_web_sm model successfully
+2025-05-21 16:14:06,989 - INFO - Loaded en_core_web_sm model successfully
+2025-05-21 16:14:06,996 - INFO - No saved model found. Training required.
+2025-05-21 16:14:06,996 - INFO - No saved model found. Training required.
+2025-05-21 16:14:06,996 - INFO - No saved model found. Training required.
+2025-05-21 16:14:07,093 - INFO - Inferred data type: supermarket
+2025-05-21 16:14:07,093 - INFO - Inferred data type: supermarket
+2025-05-21 16:14:07,093 - INFO - Inferred data type: supermarket
+2025-05-21 16:14:07,094 - INFO - Data metadata: {'numeric_columns': ['Transaction ID', 'Quantity', 'Unit Price', 'Total Amount'], 'categorical_columns': ['Date', 'Customer Name', 'Category', 'Payment Method'], 'date_columns': ['Date'], 'data_type': 'supermarket'}
+2025-05-21 16:14:07,094 - INFO - Data metadata: {'numeric_columns': ['Transaction ID', 'Quantity', 'Unit Price', 'Total Amount'], 'categorical_columns': ['Date', 'Customer Name', 'Category', 'Payment Method'], 'date_columns': ['Date'], 'data_type': 'supermarket'}
+2025-05-21 16:14:07,094 - INFO - Data metadata: {'numeric_columns': ['Transaction ID', 'Quantity', 'Unit Price', 'Total Amount'], 'categorical_columns': ['Date', 'Customer Name', 'Category', 'Payment Method'], 'date_columns': ['Date'], 'data_type': 'supermarket'}
+2025-05-21 16:14:07,096 - INFO - Preprocessed Simulated_Supermarket_Transactions.csv in 0.097 seconds
+2025-05-21 16:14:07,096 - INFO - Preprocessed Simulated_Supermarket_Transactions.csv in 0.097 seconds
+2025-05-21 16:14:07,096 - INFO - Preprocessed Simulated_Supermarket_Transactions.csv in 0.097 seconds
+2025-05-21 16:14:07,096 - INFO - DataFrame shape: (5000, 9), Columns: ['Date', 'Transaction ID', 'Customer Name', 'Product', 'Category', 'Quantity', 'Unit Price', 'Total Amount', 'Payment Method']
+2025-05-21 16:14:07,096 - INFO - DataFrame shape: (5000, 9), Columns: ['Date', 'Transaction ID', 'Customer Name', 'Product', 'Category', 'Quantity', 'Unit Price', 'Total Amount', 'Payment Method']
+2025-05-21 16:14:07,096 - INFO - DataFrame shape: (5000, 9), Columns: ['Date', 'Transaction ID', 'Customer Name', 'Product', 'Category', 'Quantity', 'Unit Price', 'Total Amount', 'Payment Method']
+2025-05-21 16:14:07,099 - INFO - Data preview (first 5 rows):
+       Date  Transaction ID    Customer Name    Product             Category  Quantity  Unit Price  Total Amount Payment Method
+0  03/02/25      2079781255    Phillip Adams       Into               Bakery         5      128.11        640.55    Net Banking
+1  18/01/25      8844433550    Steven Powell    Prevent               Bakery         1       96.79         96.79    Credit Card
+2  13/02/25      8182863730  Michael Bentley      Apply                Dairy        10      223.49       2234.90     Debit Card
+3  05/03/25      8043733122       Mark Watts  Agreement            Household         7       17.88        125.16           Cash
+4  24/01/25      1536011247    Monica Fields   Maintain  Fruits & Vegetables         7      279.38       1955.66     Debit Card
+2025-05-21 16:14:07,099 - INFO - Data preview (first 5 rows):
+       Date  Transaction ID    Customer Name    Product             Category  Quantity  Unit Price  Total Amount Payment Method
+0  03/02/25      2079781255    Phillip Adams       Into               Bakery         5      128.11        640.55    Net Banking
+1  18/01/25      8844433550    Steven Powell    Prevent               Bakery         1       96.79         96.79    Credit Card
+2  13/02/25      8182863730  Michael Bentley      Apply                Dairy        10      223.49       2234.90     Debit Card
+3  05/03/25      8043733122       Mark Watts  Agreement            Household         7       17.88        125.16           Cash
+4  24/01/25      1536011247    Monica Fields   Maintain  Fruits & Vegetables         7      279.38       1955.66     Debit Card
+2025-05-21 16:14:07,099 - INFO - Data preview (first 5 rows):
+       Date  Transaction ID    Customer Name    Product             Category  Quantity  Unit Price  Total Amount Payment Method
+0  03/02/25      2079781255    Phillip Adams       Into               Bakery         5      128.11        640.55    Net Banking
+1  18/01/25      8844433550    Steven Powell    Prevent               Bakery         1       96.79         96.79    Credit Card
+2  13/02/25      8182863730  Michael Bentley      Apply                Dairy        10      223.49       2234.90     Debit Card
+3  05/03/25      8043733122       Mark Watts  Agreement            Household         7       17.88        125.16           Cash
+4  24/01/25      1536011247    Monica Fields   Maintain  Fruits & Vegetables         7      279.38       1955.66     Debit Card
+2025-05-21 16:14:07,174 - INFO - Stored data for user test_user, file Simulated_Supermarket_Transactions.csv in 0.070 seconds
+2025-05-21 16:14:07,174 - INFO - Stored data for user test_user, file Simulated_Supermarket_Transactions.csv in 0.070 seconds
+2025-05-21 16:14:07,174 - INFO - Stored data for user test_user, file Simulated_Supermarket_Transactions.csv in 0.070 seconds
+2025-05-21 16:14:07,186 - INFO - Available columns set to: ['date', 'transaction id', 'customer name', 'product', 'category', 'quantity', 'unit price', 'total amount', 'payment method']
+2025-05-21 16:14:07,186 - INFO - Available columns set to: ['date', 'transaction id', 'customer name', 'product', 'category', 'quantity', 'unit price', 'total amount', 'payment method']
+2025-05-21 16:14:07,186 - INFO - Available columns set to: ['date', 'transaction id', 'customer name', 'product', 'category', 'quantity', 'unit price', 'total amount', 'payment method']
+2025-05-21 16:14:07,194 - INFO - Column mapping: {'date': 'Date', 'transaction id': 'Transaction ID', 'customer name': 'Customer Name', 'product': 'Product', 'category': 'Category', 'quantity': 'Quantity', 'unit price': 'Unit Price', 'total amount': 'Total Amount', 'payment method': 'Payment Method'}
+2025-05-21 16:14:07,194 - INFO - Column mapping: {'date': 'Date', 'transaction id': 'Transaction ID', 'customer name': 'Customer Name', 'product': 'Product', 'category': 'Category', 'quantity': 'Quantity', 'unit price': 'Unit Price', 'total amount': 'Total Amount', 'payment method': 'Payment Method'}
+2025-05-21 16:14:07,194 - INFO - Column mapping: {'date': 'Date', 'transaction id': 'Transaction ID', 'customer name': 'Customer Name', 'product': 'Product', 'category': 'Category', 'quantity': 'Quantity', 'unit price': 'Unit Price', 'total amount': 'Total Amount', 'payment method': 'Payment Method'}
+2025-05-21 16:14:07,201 - INFO - Training on 5000 rows and 9 columns
+2025-05-21 16:14:07,201 - INFO - Training on 5000 rows and 9 columns
+2025-05-21 16:14:07,201 - INFO - Training on 5000 rows and 9 columns
+2025-05-21 16:14:07,234 - INFO - Set Date as index for row lookup
+2025-05-21 16:14:07,234 - INFO - Set Date as index for row lookup
+2025-05-21 16:14:07,234 - INFO - Set Date as index for row lookup
+2025-05-21 16:14:07,243 - INFO - Saved model to data\data_model.pkl
+2025-05-21 16:14:07,243 - INFO - Saved model to data\data_model.pkl
+2025-05-21 16:14:07,243 - INFO - Saved model to data\data_model.pkl
+2025-05-21 16:14:07,268 - INFO - Trained model for supermarket data in 0.085 seconds with columns: ['date', 'transaction id', 'customer name', 'product', 'category', 'quantity', 'unit price', 'total amount', 'payment method']
+2025-05-21 16:14:07,268 - INFO - Trained model for supermarket data in 0.085 seconds with columns: ['date', 'transaction id', 'customer name', 'product', 'category', 'quantity', 'unit price', 'total amount', 'payment method']
+2025-05-21 16:14:07,268 - INFO - Trained model for supermarket data in 0.085 seconds with columns: ['date', 'transaction id', 'customer name', 'product', 'category', 'quantity', 'unit price', 'total amount', 'payment method']
